@@ -1,0 +1,5 @@
+﻿  stock.cpp
+c:\users\samuel\source\repos\stock\stock\stock.cpp(126): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\samuel\source\repos\stock\stock\stock.cpp(128): warning C4305: 'initializing': truncation from 'double' to 'float'
+  stock.vcxproj -> C:\Users\Samuel\source\repos\stock\Debug\stock.exe
+  stock.vcxproj -> C:\Users\Samuel\source\repos\stock\Debug\stock.pdb (Partial PDB)
