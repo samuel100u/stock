@@ -10,6 +10,7 @@
 #include <vector>
 #include <sys/types.h>
 #include  <io.h>  
+#include <http_client.h>
 
 
 using namespace std;

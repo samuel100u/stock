@@ -1,2 +1,5 @@
 http://tw.stock.yahoo.com/q/q?s=$stock
 http://tw.stock.yahoo.com/q/q?s=$stock
+http://tw.stock.yahoo.com/q/q?s=$stock
+http://tw.stock.yahoo.com/q/q?s=$stock
+http://tw.stock.yahoo.com/q/q?s=$stock
